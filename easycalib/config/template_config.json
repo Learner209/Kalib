@@ -1,0 +1,19 @@
+{
+  "objects": [
+    {
+      "class": "panda",
+      "visibility": 1,
+      "location": null,
+      "camera_intrinsics": null,
+      "local_to_world_matrix": null,
+      "keypoints": [
+        {
+          "name": null,
+          "location": null,
+          "projected_location": null,
+          "predicted_location": null
+        }
+      ]
+    }
+  ]
+}

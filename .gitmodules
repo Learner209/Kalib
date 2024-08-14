@@ -1,0 +1,15 @@
+[submodule "third_party/grounded_segment_anything"]
+	path = third_party/grounded_segment_anything
+	url = git@github.com:Learner209/grounded_segment_anything_fork.git
+[submodule "third_party/droid"]
+	path = third_party/droid
+	url = git@github.com:Learner209/droid_dataset_robot_manipulation.git
+[submodule "third_party/spatial_tracker"]
+	path = third_party/spatial_tracker
+	url = git@github.com:Learner209/SpaTracker.git
+[submodule "third_party/dino_tracker"]
+	path = third_party/dino_tracker
+	url = git@github.com:Learner209/dino-tracker.git
+[submodule "third_party/cotracker"]
+	path = third_party/cotracker
+	url = git@github.com:facebookresearch/co-tracker.git

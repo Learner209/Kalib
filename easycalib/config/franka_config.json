@@ -1,0 +1,18 @@
+{
+  "manipulator": {
+    "mesh_paths": [
+      "assets/franka/franka_description/meshes/visual/link1.dae",
+      "assets/franka/franka_description/meshes/visual/link2.dae",
+      "assets/franka/franka_description/meshes/visual/link3.dae",
+      "assets/franka/franka_description/meshes/visual/link4.dae",
+      "assets/franka/franka_description/meshes/visual/link5.dae",
+      "assets/franka/franka_description/meshes/visual/link6.dae",
+      "assets/franka/franka_description/meshes/visual/link7.dae"
+    ],
+    "urdf_path": "assets/franka/urdf/franka.urdf",
+    "keypoints": ["panda_link_0", "panda_link_1", "panda_link_2", "panda_link_3", "panda_link4",  "panda_link5",  "panda_link6",  "panda_link7", "panda_ball"],
+    "name": "panda"
+  }
+}
+
+

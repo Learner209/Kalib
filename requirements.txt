@@ -1,0 +1,13 @@
+numpy<2.0
+pybullet
+pyrfuniverse
+torch
+git+https://github.com/NVlabs/nvdiffrast.git
+trimesh
+termcolor
+pyrr
+open3d
+pycollada
+imageio
+ninja
+tqdm
